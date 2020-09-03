@@ -1,0 +1,6 @@
+framework module NoxmobiMediationVungleAdapter {
+  umbrella header "NoxmobiMediationVungleAdapter.h"
+
+  export *
+  module * { export * }
+}
