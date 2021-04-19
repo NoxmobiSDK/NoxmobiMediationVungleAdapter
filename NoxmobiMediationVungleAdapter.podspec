@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationVungleAdapter"
-  spec.version      = "6.8.1.1" # Mark
+  spec.version      = "6.9.2.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for Vungle."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationVungleAdapter"
   spec.license      = "MIT"
@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationVungleAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "VungleSDK-iOS", "6.8.1"
+  spec.dependency "VungleSDK-iOS", "6.9.2"
 
 end
