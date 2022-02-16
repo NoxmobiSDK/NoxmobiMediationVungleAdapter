@@ -9,6 +9,4 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationVungleAdapterVersion @"6.10.3.0"
-
-
+#define NoxmobiMediationVungleAdapterVersion @"6.10.5.0"
